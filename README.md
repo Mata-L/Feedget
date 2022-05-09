@@ -8,12 +8,12 @@
 
 ### Dia 1
 > <p>Aprenndemos a construir um botão que se expande ao passar o mouse por cima e, ao ser clicado, este botão altera o próprio HTML.</p>
-<img src="https://raw.githubusercontent.com/Mata-L/Feedget/main/Captura%20de%20tela%202022-05-03%20005441.png" />
 
 ### Dia 2
 > <p>Aprenndemos sobre interação entre componentes. Acrescentamos interações entre os botões e implementamos um botão de printscreen.</p>
-<img src="https://github.com/Mata-L/Feedget/blob/main/Captura%20de%20tela%202022-05-04%20024506.jpg?raw=true" />
 
 ### Dia 3
 > <p>Iniciamos e finalizamos o back-end da aplicação, utilizando Node, Express, Prisma e outras tecnologidas. Seguimos princípios SOLID.</p>
-<img src="https://user-images.githubusercontent.com/24374140/166877615-6c3e120b-fcea-40f6-9e70-da43dbda9ff6.png" />
+
+### Dia 4
+> <p>Aula intensa! Usamos react native para fazer a versão mobile e está totalmente funcional, como no site.</p>
